@@ -1,2 +1,3 @@
-# pagina_web_equipo
-pagina web nuestro equipo
+Integrantes: 
+Rodrigo vasquez
+Danilo Huarcaya 
